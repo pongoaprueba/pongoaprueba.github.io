@@ -1,0 +1,41 @@
+{
+  "afiliado": "pongoaprueba-21",
+  "redes": [
+    {"red": "tiktok", "nombre": "TikTok", "usuario": "@pongoaprueba.es", "url": "https://www.tiktok.com/@pongoaprueba.es"},
+    {"red": "instagram", "nombre": "Instagram", "usuario": "@pongoaprueba.es", "url": "https://www.instagram.com/pongoaprueba.es/"},
+    {"red": "youtube", "nombre": "YouTube", "usuario": "@pongoaprueba", "url": "https://www.youtube.com/@pongoaprueba"},
+    {"red": "facebook", "nombre": "Facebook", "usuario": "/pongoaprueba", "url": "https://www.facebook.com/pongoaprueba"}
+  ],
+  "productos": [
+    {
+      "id": "meross-mrs200",
+      "nombre": "Meross MRS200",
+      "tipo": "Enrollador de cinta para persianas, con Matter",
+      "categoria": "Hogar inteligente",
+      "fecha": "2026-11-14",
+      "asin": "B0F3CR6MSF",
+      "nota": 8,
+      "veredicto": "Cumple lo que promete",
+      "pros": ["Funciona con Alexa (probado)", "No necesita bridge", "Fácil de instalar", "Ajuste al 1 % y horarios"],
+      "contras": ["El motor hace algo de ruido", "No es de los más baratos", "No pudimos meterlo en una rutina completa de Alexa"],
+      "foto": "img/meross-mrs200.jpg",
+      "video": "https://youtube.com/shorts/DwPhDxnx6Tw",
+      "origen": "Lo compramos nosotros"
+    },
+    {
+      "id": "dji-mic-mini-2",
+      "nombre": "DJI Mic Mini 2",
+      "tipo": "Micrófono inalámbrico (1 micro + receptor + estuche de carga)",
+      "categoria": "Imagen y sonido",
+      "fecha": "2026-11-13",
+      "asin": "B0G39G3SZM",
+      "nota": 9,
+      "veredicto": "Buen producto",
+      "pros": ["Se conecta directo al iPhone", "Pesa unos 11 g", "Estuche de carga incluido"],
+      "contras": ["Algunos ajustes, solo desde la app", "Si ya tienes el primer Mic Mini, cambia poco"],
+      "foto": "img/dji-mic-mini-2.jpg",
+      "video": "https://youtube.com/shorts/Zd1eUub18-E",
+      "origen": "Lo compramos nosotros"
+    }
+  ]
+}
