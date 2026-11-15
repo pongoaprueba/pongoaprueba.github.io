@@ -1,12 +1,56 @@
 {
   "afiliado": "pongoaprueba-21",
   "redes": [
-    {"red": "tiktok", "nombre": "TikTok", "usuario": "@pongoaprueba.es", "url": "https://www.tiktok.com/@pongoaprueba.es"},
-    {"red": "instagram", "nombre": "Instagram", "usuario": "@pongoaprueba.es", "url": "https://www.instagram.com/pongoaprueba.es/"},
-    {"red": "youtube", "nombre": "YouTube", "usuario": "@pongoaprueba", "url": "https://www.youtube.com/@pongoaprueba"},
-    {"red": "facebook", "nombre": "Facebook", "usuario": "/pongoaprueba", "url": "https://www.facebook.com/pongoaprueba"}
+    {
+      "red": "tiktok",
+      "nombre": "TikTok",
+      "usuario": "@pongoaprueba.es",
+      "url": "https://www.tiktok.com/@pongoaprueba.es"
+    },
+    {
+      "red": "instagram",
+      "nombre": "Instagram",
+      "usuario": "@pongoaprueba.es",
+      "url": "https://www.instagram.com/pongoaprueba.es/"
+    },
+    {
+      "red": "youtube",
+      "nombre": "YouTube",
+      "usuario": "@pongoaprueba",
+      "url": "https://www.youtube.com/@pongoaprueba"
+    },
+    {
+      "red": "facebook",
+      "nombre": "Facebook",
+      "usuario": "/pongoaprueba",
+      "url": "https://www.facebook.com/pongoaprueba"
+    }
   ],
   "productos": [
+    {
+      "id": "momcozy-ww01",
+      "nombre": "Momcozy WW01",
+      "tipo": "Calentador de toallitas húmedas para bebé, con luz de noche",
+      "categoria": "Bebé",
+      "fecha": "2026-11-15",
+      "asin": "B0H5R7JK35",
+      "nota": 9,
+      "veredicto": "Hace lo que promete",
+      "pros": [
+        "Las toallitas salen calientes",
+        "No se secan (sin echar agua)",
+        "Cabe un paquete entero",
+        "La luz de noche alumbra bastante"
+      ],
+      "contras": [
+        "Tarda unos minutos en calentar",
+        "Hay que limpiarlo cada semana",
+        "Tiene que estar siempre enchufado"
+      ],
+      "foto": "img/momcozy-ww01.jpg",
+      "video": "https://youtube.com/shorts/RiG5-vNf8iw",
+      "origen": "Nos lo regalaron"
+    },
     {
       "id": "meross-mrs200",
       "nombre": "Meross MRS200",
@@ -16,8 +60,17 @@
       "asin": "B0F3CR6MSF",
       "nota": 8,
       "veredicto": "Cumple lo que promete",
-      "pros": ["Funciona con Alexa (probado)", "No necesita bridge", "Fácil de instalar", "Ajuste al 1 % y horarios"],
-      "contras": ["El motor hace algo de ruido", "No es de los más baratos", "No pudimos meterlo en una rutina completa de Alexa"],
+      "pros": [
+        "Funciona con Alexa (probado)",
+        "No necesita bridge",
+        "Fácil de instalar",
+        "Ajuste al 1 % y horarios"
+      ],
+      "contras": [
+        "El motor hace algo de ruido",
+        "No es de los más baratos",
+        "No pudimos meterlo en una rutina completa de Alexa"
+      ],
       "foto": "img/meross-mrs200.jpg",
       "video": "https://youtube.com/shorts/DwPhDxnx6Tw",
       "origen": "Lo compramos nosotros"
@@ -31,8 +84,15 @@
       "asin": "B0G39G3SZM",
       "nota": 9,
       "veredicto": "Buen producto",
-      "pros": ["Se conecta directo al iPhone", "Pesa unos 11 g", "Estuche de carga incluido"],
-      "contras": ["Algunos ajustes, solo desde la app", "Si ya tienes el primer Mic Mini, cambia poco"],
+      "pros": [
+        "Se conecta directo al iPhone",
+        "Pesa unos 11 g",
+        "Estuche de carga incluido"
+      ],
+      "contras": [
+        "Algunos ajustes, solo desde la app",
+        "Si ya tienes el primer Mic Mini, cambia poco"
+      ],
       "foto": "img/dji-mic-mini-2.jpg",
       "video": "https://youtube.com/shorts/Zd1eUub18-E",
       "origen": "Lo compramos nosotros"
