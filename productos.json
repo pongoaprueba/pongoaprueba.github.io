@@ -28,6 +28,29 @@
   ],
   "productos": [
     {
+      "id": "rolipo-hy128",
+      "nombre": "Rolipo HY-128",
+      "tipo": "Vaporizador de ropa de mano, con depósito de 400 ml",
+      "categoria": "Hogar",
+      "fecha": "2026-11-16",
+      "asin": "B0FVT59CH4",
+      "nota": 8,
+      "veredicto": "Cumple para ir rápido",
+      "pros": [
+        "Quita las arrugas, con la ropa colgada",
+        "Lista en unos 30 segundos",
+        "Depósito grande: 400 ml",
+        "Cable largo: 2,1 m"
+      ],
+      "contras": [
+        "No deja la ropa tan fina como una plancha tradicional",
+        "Tiene que estar siempre enchufada"
+      ],
+      "foto": "img/rolipo-hy128.jpg",
+      "video": "https://youtube.com/shorts/37Fx4YdhJL4",
+      "origen": "Lo compramos nosotros"
+    },
+    {
       "id": "momcozy-ww01",
       "nombre": "Momcozy WW01",
       "tipo": "Calentador de toallitas húmedas para bebé, con luz de noche",
