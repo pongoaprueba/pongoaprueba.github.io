@@ -1,124 +1,223 @@
 {
-  "afiliado": "pongoaprueba-21",
-  "redes": [
+ "afiliado": "pongoaprueba-21",
+ "redes": [
+  {
+   "red": "tiktok",
+   "nombre": "TikTok",
+   "usuario": "@pongoaprueba.es",
+   "url": "https://www.tiktok.com/@pongoaprueba.es"
+  },
+  {
+   "red": "instagram",
+   "nombre": "Instagram",
+   "usuario": "@pongoaprueba.es",
+   "url": "https://www.instagram.com/pongoaprueba.es/"
+  },
+  {
+   "red": "youtube",
+   "nombre": "YouTube",
+   "usuario": "@pongoaprueba",
+   "url": "https://www.youtube.com/@pongoaprueba"
+  },
+  {
+   "red": "facebook",
+   "nombre": "Facebook",
+   "usuario": "/pongoaprueba",
+   "url": "https://www.facebook.com/pongoaprueba"
+  }
+ ],
+ "productos": [
+  {
+   "id": "shein-haul-bebe",
+   "ficha": "haul",
+   "tienda": "SHEIN",
+   "nombre": "Ropa de invierno para bebé de SHEIN",
+   "tipo": "12 prendas, menos de 120 € en total",
+   "categoria": "Bebé",
+   "fecha": "2026-11-25",
+   "veredicto": "7 sí, 2 regular y 3 no",
+   "foto": "img/shein-haul-bebe.jpg",
+   "video": "",
+   "origen": "Lo compramos nosotros. Las que no nos convencieron salen sin enlace.",
+   "prendas": [
     {
-      "red": "tiktok",
-      "nombre": "TikTok",
-      "usuario": "@pongoaprueba.es",
-      "url": "https://www.tiktok.com/@pongoaprueba.es"
+     "nombre": "Vestido con jersey (Cozy Pixies)",
+     "veredicto": "si",
+     "sub": "Calentito y bonito",
+     "foto": "img/shein-haul/01.jpg",
+     "enlace": "https://onelink.shein.com/62/69cja7bk20r5?ismg_ol=DQGSvZMrtCN_01_KOC-C"
     },
     {
-      "red": "instagram",
-      "nombre": "Instagram",
-      "usuario": "@pongoaprueba.es",
-      "url": "https://www.instagram.com/pongoaprueba.es/"
+     "nombre": "Body + pichi de pata de gallo",
+     "veredicto": "si",
+     "sub": "Buena calidad",
+     "foto": "img/shein-haul/02.jpg",
+     "enlace": "https://onelink.shein.com/62/69cgjxl52xsp?ismg_ol=DYnuH579grC_01_KOC-C"
     },
     {
-      "red": "youtube",
-      "nombre": "YouTube",
-      "usuario": "@pongoaprueba",
-      "url": "https://www.youtube.com/@pongoaprueba"
+     "nombre": "Conjunto beige con cuello",
+     "veredicto": "no",
+     "sub": "Tela fina y floja",
+     "foto": "img/shein-haul/03.jpg",
+     "enlace": ""
     },
     {
-      "red": "facebook",
-      "nombre": "Facebook",
-      "usuario": "/pongoaprueba",
-      "url": "https://www.facebook.com/pongoaprueba"
+     "nombre": "Ranita de cuadros con cuello",
+     "veredicto": "si",
+     "sub": "Calentita, algo grande",
+     "foto": "img/shein-haul/04.jpg",
+     "enlace": "https://onelink.shein.com/62/69cj6b8d2tr1?ismg_ol=03xfjMmDbGY_01_KOC-C"
+    },
+    {
+     "nombre": "Conjunto de felpa con corazón",
+     "veredicto": "si",
+     "sub": "Calentito y estira",
+     "foto": "img/shein-haul/05.jpg",
+     "enlace": "https://onelink.shein.com/62/69cj7aqwm97a?ismg_ol=8qJDIWSGz2K_01_KOC-C"
+    },
+    {
+     "nombre": "Vestido estampado",
+     "veredicto": "no",
+     "sub": "Sintético y gigante",
+     "foto": "img/shein-haul/06.jpg",
+     "enlace": ""
+    },
+    {
+     "nombre": "Conjunto de punto rosa con lazo",
+     "veredicto": "si",
+     "sub": "Súper calentito y suave",
+     "foto": "img/shein-haul/07.jpg",
+     "enlace": "https://onelink.shein.com/62/69cj95tyxog0?ismg_ol=2KaZehIk9Uh_01_KOC-C"
+    },
+    {
+     "nombre": "Conjunto de rayas",
+     "veredicto": "regular",
+     "sub": "Bonito, abriga poco",
+     "foto": "img/shein-haul/08.jpg",
+     "enlace": "https://onelink.shein.com/62/69cj5th31mo6?ismg_ol=LHJKX478Bo1_01_KOC-C"
+    },
+    {
+     "nombre": "Jersey de flores con pantalón",
+     "veredicto": "no",
+     "sub": "Fino y grande",
+     "foto": "img/shein-haul/09.jpg",
+     "enlace": ""
+    },
+    {
+     "nombre": "Leotardos térmicos de canalé",
+     "veredicto": "si",
+     "sub": "Calentitos y estiran",
+     "foto": "img/shein-haul/10.jpg",
+     "enlace": "https://onelink.shein.com/62/69cj6r0lhphd?ismg_ol=ETKGqvOG7ge_01_KOC-C"
+    },
+    {
+     "nombre": "Abrigo de leopardo",
+     "veredicto": "regular",
+     "sub": "Bonito, pero fino",
+     "foto": "img/shein-haul/11.jpg",
+     "enlace": "https://onelink.shein.com/62/69cj8c8i7g9d?ismg_ol=FJIC86mnzPq_01_KOC-C"
+    },
+    {
+     "nombre": "Pelele de punto con lazo",
+     "veredicto": "si",
+     "sub": "Talla grande: a partir de 6 meses",
+     "foto": "img/shein-haul/12.jpg",
+     "enlace": "https://onelink.shein.com/62/69cjap2u2ih0?ismg_ol=6tbZpdZ24Wb_01_KOC-C"
     }
-  ],
-  "productos": [
-    {
-      "id": "rolipo-hy128",
-      "nombre": "Rolipo HY-128",
-      "tipo": "Vaporizador de ropa de mano, con depósito de 400 ml",
-      "categoria": "Hogar",
-      "fecha": "2026-11-16",
-      "asin": "B0FVT59CH4",
-      "nota": 8,
-      "veredicto": "Cumple para ir rápido",
-      "pros": [
-        "Quita las arrugas, con la ropa colgada",
-        "Lista en unos 30 segundos",
-        "Depósito grande: 400 ml",
-        "Cable largo: 2,1 m"
-      ],
-      "contras": [
-        "No deja la ropa tan fina como una plancha tradicional",
-        "Tiene que estar siempre enchufada"
-      ],
-      "foto": "img/rolipo-hy128.jpg",
-      "video": "https://youtube.com/shorts/37Fx4YdhJL4",
-      "origen": "Lo compramos nosotros"
-    },
-    {
-      "id": "momcozy-ww01",
-      "nombre": "Momcozy WW01",
-      "tipo": "Calentador de toallitas húmedas para bebé, con luz de noche",
-      "categoria": "Bebé",
-      "fecha": "2026-11-15",
-      "asin": "B0H5R7JK35",
-      "nota": 9,
-      "veredicto": "Hace lo que promete",
-      "pros": [
-        "Las toallitas salen calientes",
-        "No se secan (sin echar agua)",
-        "Cabe un paquete entero",
-        "La luz de noche alumbra bastante"
-      ],
-      "contras": [
-        "Tarda unos minutos en calentar",
-        "Hay que limpiarlo cada semana",
-        "Tiene que estar siempre enchufado"
-      ],
-      "foto": "img/momcozy-ww01.jpg",
-      "video": "https://youtube.com/shorts/RiG5-vNf8iw",
-      "origen": "Nos lo regalaron"
-    },
-    {
-      "id": "meross-mrs200",
-      "nombre": "Meross MRS200",
-      "tipo": "Enrollador de cinta para persianas, con Matter",
-      "categoria": "Hogar inteligente",
-      "fecha": "2026-11-14",
-      "asin": "B0F3CR6MSF",
-      "nota": 8,
-      "veredicto": "Cumple lo que promete",
-      "pros": [
-        "Funciona con Alexa (probado)",
-        "No necesita bridge",
-        "Fácil de instalar",
-        "Ajuste al 1 % y horarios"
-      ],
-      "contras": [
-        "El motor hace algo de ruido",
-        "No es de los más baratos",
-        "No pudimos meterlo en una rutina completa de Alexa"
-      ],
-      "foto": "img/meross-mrs200.jpg",
-      "video": "https://youtube.com/shorts/DwPhDxnx6Tw",
-      "origen": "Lo compramos nosotros"
-    },
-    {
-      "id": "dji-mic-mini-2",
-      "nombre": "DJI Mic Mini 2",
-      "tipo": "Micrófono inalámbrico (1 micro + receptor + estuche de carga)",
-      "categoria": "Imagen y sonido",
-      "fecha": "2026-11-13",
-      "asin": "B0G39G3SZM",
-      "nota": 9,
-      "veredicto": "Buen producto",
-      "pros": [
-        "Se conecta directo al iPhone",
-        "Pesa unos 11 g",
-        "Estuche de carga incluido"
-      ],
-      "contras": [
-        "Algunos ajustes, solo desde la app",
-        "Si ya tienes el primer Mic Mini, cambia poco"
-      ],
-      "foto": "img/dji-mic-mini-2.jpg",
-      "video": "https://youtube.com/shorts/Zd1eUub18-E",
-      "origen": "Lo compramos nosotros"
-    }
-  ]
+   ]
+  },
+  {
+   "id": "rolipo-hy128",
+   "nombre": "Rolipo HY-128",
+   "tipo": "Vaporizador de ropa de mano, con depósito de 400 ml",
+   "categoria": "Hogar",
+   "fecha": "2026-11-16",
+   "asin": "B0FVT59CH4",
+   "nota": 8,
+   "veredicto": "Cumple para ir rápido",
+   "pros": [
+    "Quita las arrugas, con la ropa colgada",
+    "Lista en unos 30 segundos",
+    "Depósito grande: 400 ml",
+    "Cable largo: 2,1 m"
+   ],
+   "contras": [
+    "No deja la ropa tan fina como una plancha tradicional",
+    "Tiene que estar siempre enchufada"
+   ],
+   "foto": "img/rolipo-hy128.jpg",
+   "video": "https://youtube.com/shorts/37Fx4YdhJL4",
+   "origen": "Lo compramos nosotros"
+  },
+  {
+   "id": "momcozy-ww01",
+   "nombre": "Momcozy WW01",
+   "tipo": "Calentador de toallitas húmedas para bebé, con luz de noche",
+   "categoria": "Bebé",
+   "fecha": "2026-11-15",
+   "asin": "B0H5R7JK35",
+   "nota": 9,
+   "veredicto": "Hace lo que promete",
+   "pros": [
+    "Las toallitas salen calientes",
+    "No se secan (sin echar agua)",
+    "Cabe un paquete entero",
+    "La luz de noche alumbra bastante"
+   ],
+   "contras": [
+    "Tarda unos minutos en calentar",
+    "Hay que limpiarlo cada semana",
+    "Tiene que estar siempre enchufado"
+   ],
+   "foto": "img/momcozy-ww01.jpg",
+   "video": "https://youtube.com/shorts/RiG5-vNf8iw",
+   "origen": "Nos lo regalaron"
+  },
+  {
+   "id": "meross-mrs200",
+   "nombre": "Meross MRS200",
+   "tipo": "Enrollador de cinta para persianas, con Matter",
+   "categoria": "Hogar inteligente",
+   "fecha": "2026-11-14",
+   "asin": "B0F3CR6MSF",
+   "nota": 8,
+   "veredicto": "Cumple lo que promete",
+   "pros": [
+    "Funciona con Alexa (probado)",
+    "No necesita bridge",
+    "Fácil de instalar",
+    "Ajuste al 1 % y horarios"
+   ],
+   "contras": [
+    "El motor hace algo de ruido",
+    "No es de los más baratos",
+    "No pudimos meterlo en una rutina completa de Alexa"
+   ],
+   "foto": "img/meross-mrs200.jpg",
+   "video": "https://youtube.com/shorts/DwPhDxnx6Tw",
+   "origen": "Lo compramos nosotros"
+  },
+  {
+   "id": "dji-mic-mini-2",
+   "nombre": "DJI Mic Mini 2",
+   "tipo": "Micrófono inalámbrico (1 micro + receptor + estuche de carga)",
+   "categoria": "Imagen y sonido",
+   "fecha": "2026-11-13",
+   "asin": "B0G39G3SZM",
+   "nota": 9,
+   "veredicto": "Buen producto",
+   "pros": [
+    "Se conecta directo al iPhone",
+    "Pesa unos 11 g",
+    "Estuche de carga incluido"
+   ],
+   "contras": [
+    "Algunos ajustes, solo desde la app",
+    "Si ya tienes el primer Mic Mini, cambia poco"
+   ],
+   "foto": "img/dji-mic-mini-2.jpg",
+   "video": "https://youtube.com/shorts/Zd1eUub18-E",
+   "origen": "Lo compramos nosotros"
+  }
+ ]
 }
